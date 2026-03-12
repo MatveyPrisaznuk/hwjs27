@@ -1,0 +1,27 @@
+.container {
+  gap: 10px;
+  display: flex;
+}
+
+.box, .new__box {
+  width: 200px;
+  height: 200px;
+}
+
+.game__box {
+  background-color: beige;
+  width: 1000px;
+  height: 700px;
+  position: fixed;
+  overflow: hidden;
+}
+
+.game__cube {
+  background-color: gray;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+/*# sourceMappingURL=hwjs27.2cdaf7bc.css.map */
