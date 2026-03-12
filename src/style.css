@@ -1,0 +1,32 @@
+
+.container {
+  display: flex;
+  gap: 10px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+}
+
+.new__box {
+  width: 200px;
+  height: 200px;
+}
+
+.game__box {
+    width: 1000px;
+    height: 700px;
+    background-color: beige;
+    position: fixed;
+    overflow: hidden;
+}
+
+.game__cube {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
